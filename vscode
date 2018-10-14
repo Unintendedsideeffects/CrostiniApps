@@ -1,0 +1,5 @@
+sudo apt-get update
+
+curl -L https://go.microsoft.com/fwlink/?LinkID=760868 > code.deb
+
+sudo apt-get install libxss1 libasound2 ./code.deb

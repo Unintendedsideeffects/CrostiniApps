@@ -1,0 +1,20 @@
+
+systemctl --user 
+
+If sommelier@0.service and sommelier-x@0.service show a failed status, the following worked for me:
+
+sudo ln -s /opt/google/cros-containers/bin/sommelier.elf /usr/bin/ systemctl --user restart sommelier@0.service systemctl --user restart sommelier-x@0.service export DISPLAY=:0 
+
+Check again to see if those services are started now:
+
+systemctl --user 
+
+Hopefully now X/Wayland apps work again.
+
+xclock
+
+
+
+
+Thank you to:
+https://gist.github.com/bzub/65aabace4a60874c61ece4838b6219f3

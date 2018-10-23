@@ -2,8 +2,8 @@
 Short notes on Crostini apps
 
 
-Editor - VSCode & Atom
+<b>Editor</b> - VSCode & Atom
 
-PDF - Zathura with muPDF backend
+<b>PDF</b> - Zathura with muPDF backend
 
 <b>Shell</b> - zsh with oh-my-zsh and powerline

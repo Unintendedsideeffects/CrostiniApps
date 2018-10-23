@@ -1,4 +1,4 @@
-# CrostiniApps
+# Crostini On My Pixelbook
 Short notes on Crostini apps
 
 

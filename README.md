@@ -7,3 +7,6 @@ Short notes on Crostini apps
 <b>PDF</b> - Zathura with muPDF backend
 
 <b>Shell</b> - zsh with oh-my-zsh and powerline
+
+
+<b>File Manager</b> - Ranger

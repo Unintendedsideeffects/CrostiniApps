@@ -4,8 +4,7 @@ Short notes on Crostini apps
 
 <b>Editor</b> - VSCode & Atom
 
-<b>PDF</b> - Zathura with muPDF backend
-
+<b>PDF</b> - Chrome OS has native PDF support now
 <b>Shell</b> - zsh with oh-my-zsh and powerline
 
 

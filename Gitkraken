@@ -2,15 +2,15 @@ wget https://release.gitkraken.com/linux/gitkraken-amd64.deb
 sudo dpkg -i gitkraken-amd64.deb
 
 
-Out of the box some dependencies are not met:
-gconf2, gconf-service, libnotify4, libnss3, libxkbfile1, python, gvfs-bin
+#Out of the box some dependencies are not met:
+#gconf2, gconf-service, libnotify4, libnss3, libxkbfile1, python, gvfs-bin
 
-Running apt --fix-broken install will install all the unmet dependencies
-Run sudo dpkg -i gitkraken-amd64.deb again
+#Running apt --fix-broken install will install all the unmet dependencies
+#Uncomment this and run 
+#sudo dpkg -i gitkraken-amd64.deb again
 
 
-IF YOU HAVE THIS ERROR:
-libgnome-keyring.so.0: cannot open shared object file: No such file or directory
-
-SOLUTION:
-sudo apt install libgnome-keyring-common libgnome-keyring-dev
+#IF YOU HAVE THIS ERROR:
+#libgnome-keyring.so.0: cannot open shared object file: No such file or directory
+#Uncomment:
+#sudo apt install libgnome-keyring-common libgnome-keyring-dev

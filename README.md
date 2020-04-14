@@ -2,7 +2,7 @@
 Short notes on Crostini apps
 
 
-<b>Editor</b> - VSCode & Atom
+<b>Editor</b> - VSCode
 
 <b>PDF</b> - Squid and chrome for editing, play books and zathura for reading
 

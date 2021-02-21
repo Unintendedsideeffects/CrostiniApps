@@ -4,7 +4,7 @@ Short notes on Crostini apps
 
 <b>Editor</b> - VSCode
 
-<b>PDF</b> - Squid and chrome for editing, play books and zathura for reading
+<b>PDF</b> - Squid and Xodo for editing, play books and zathura for reading
 
 <b>Shell</b> - zsh with oh-my-zsh and powerline
 
